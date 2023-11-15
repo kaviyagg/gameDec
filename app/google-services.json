@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263713676027",
+    "project_id": "gameandroid-a5665",
+    "storage_bucket": "gameandroid-a5665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263713676027:android:1ca81494abade221cfae5e",
+        "android_client_info": {
+          "package_name": "com.example.gamedec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv2WVtkV-s2vRDHz5hqaxL2w7q_kgZPt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
